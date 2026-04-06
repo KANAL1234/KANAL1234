@@ -18,8 +18,6 @@ Building AI SaaS products solo under my studio **[Veraxiss](https://veraxiss.me)
 
 📅 **[workforce-scheduling-platform](https://github.com/KANAL1234/workforce-scheduling-platform)** — Workforce scheduling and management platform (JavaScript)
 
-🕌 **[bismillah-erp](https://github.com/KANAL1234/bismillah-erp)** — ERP system built with TypeScript and Next.js
-
 🏏 **cricedge** (private) — Fantasy cricket intelligence terminal — ownership predictions, captain picks, and differentials for Dream11 / My11Circle
 
 🏠 **safehome-tracker** (private) — Home security camera platform with face recognition and live streaming
